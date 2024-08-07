@@ -38,12 +38,14 @@ This project develops and implements a mean-reverting trading strategy using sto
 
 To get started with this project, clone the repository and install the required dependencies:
 
+```bash
+git clone https://github.com/yourusername/sector-spreads.git
+cd sector-spreads
+pip install -r requirements.txt
+
 ## Scripts
 
 1. Stock_Screening_v2.ipynb - Selection of three stocks from multiple sector in NASDAQ.
 2. Regression Trading_Final.ipynb - Main Script, Trade Execution
 
-```bash
-git clone https://github.com/yourusername/sector-spreads.git
-cd sector-spreads
-pip install -r requirements.txt
+
