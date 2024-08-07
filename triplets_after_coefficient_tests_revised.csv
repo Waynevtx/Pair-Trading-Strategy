@@ -1,0 +1,889 @@
+,tickers,sector,coefficients,rsquared
+0,"['AAON', 'CDXS', 'OMIC']",Industrials,"const    38.332528
+AAON     -0.800621
+CDXS     12.534653
+dtype: float64",0.930081538
+1,"['AAON', 'BYU', 'LIN']",Industrials,"const    284.551574
+AAON       1.786099
+BYU       -0.844622
+dtype: float64",0.90657858
+2,"['AAON', 'CSWI', 'STRL']",Industrials,"const   -44.921691
+AAON     -0.362454
+CSWI      0.770011
+dtype: float64",0.917735583
+3,"['AAON', 'AGRI', 'RETO']",Industrials,"const   -198.544212
+AAON       2.699500
+AGRI       8.649561
+dtype: float64",0.903129615
+4,"['AAON', 'BNGO', 'OMIC']",Industrials,"const    18.967566
+AAON     -0.253643
+BNGO      3.756827
+dtype: float64",0.937240679
+5,"['AAON', 'AKYA', 'OMIC']",Industrials,"const    27.947142
+AAON     -0.755802
+AKYA      7.148070
+dtype: float64",0.934190597
+6,"['AAON', 'AKYA', 'MNTS']",Industrials,"const    3.195395
+AAON    -0.340248
+AKYA     5.336712
+dtype: float64",0.919975842
+7,"['AAOI', 'AAPL', 'MANH']",Technology,"const   -46.103889
+AAOI      1.595266
+AAPL      1.241931
+dtype: float64",0.90358086
+8,"['AAOI', 'ALKT', 'VRNS']",Technology,"const    8.095499
+AAOI     0.384107
+ALKT     1.129081
+dtype: float64",0.907313544
+9,"['AAOI', 'ALKT', 'NTNX']",Technology,"const    5.210023
+AAOI     0.251664
+ALKT     1.471048
+dtype: float64",0.900748853
+10,"['AAOI', 'AAPL', 'TTWO']",Technology,"const    6.877691
+AAOI     0.837044
+AAPL     0.701438
+dtype: float64",0.941184527
+11,"['AAOI', 'AIRG', 'PHUN']",Technology,"const   -10.648280
+AAOI     -0.638324
+AIRG      7.967737
+dtype: float64",0.936302076
+12,"['AAOI', 'AAPL', 'LRCX']",Technology,"const    41.781284
+AAOI      7.707764
+AAPL      2.905373
+dtype: float64",0.930702786
+13,"['AAOI', 'AAPL', 'MSFT']",Technology,"const   -34.524471
+AAOI      1.266108
+AAPL      1.966564
+dtype: float64",0.915438263
+14,"['AAOI', 'ADBE', 'INTU']",Technology,"const    280.351750
+AAOI       5.028369
+ADBE       0.344191
+dtype: float64",0.914144785
+15,"['AAOI', 'AAPL', 'WDAY']",Technology,"const    64.935802
+AAOI      3.010795
+AAPL      0.733402
+dtype: float64",0.910720211
+16,"['AAOI', 'AAPL', 'AVGO']",Technology,"const   -12.330085
+AAOI      1.390881
+AAPL      0.467078
+dtype: float64",0.910590556
+17,"['AAOI', 'AIRG', 'CMBM']",Technology,"const   -1.235152
+AAOI    -0.231892
+AIRG     3.120394
+dtype: float64",0.91005463
+18,"['AAOI', 'ACMR', 'CAMT']",Technology,"const   -5.555299
+AAOI     1.112520
+ACMR     2.861711
+dtype: float64",0.905517882
+19,"['AAOI', 'ALKT', 'ZS']",Technology,"const    10.906719
+AAOI      1.159404
+ALKT      7.555399
+dtype: float64",0.904258138
+20,"['AAOI', 'AAPL', 'META']",Technology,"const   -228.568636
+AAOI       3.080297
+AAPL       2.710765
+dtype: float64",0.902967383
+21,"['AAL', 'AMZN', 'LMB']",Consumer-Discretionary,"const   -18.843376
+AAL      -0.825449
+AMZN      0.460669
+dtype: float64",0.920968142
+22,"['AAL', 'ADSE', 'JBLU']",Consumer-Discretionary,"const   -1.391350
+AAL      0.659676
+ADSE    -0.314051
+dtype: float64",0.94952884
+23,"['AAL', 'ALTS', 'JBLU']",Consumer-Discretionary,"const   -1.743776
+AAL      0.460772
+ALTS     1.763380
+dtype: float64",0.931938341
+24,"['AAL', 'ALTS', 'ULCC']",Consumer-Discretionary,"const   -2.386614
+AAL      0.397067
+ALTS     4.974181
+dtype: float64",0.919616004
+25,"['AAL', 'AKAM', 'MMYT']",Consumer-Discretionary,"const   -8.474903
+AAL     -0.439389
+AKAM     0.499738
+dtype: float64",0.914456683
+26,"['AAL', 'AMZN', 'WINA']",Consumer-Discretionary,"const    218.331564
+AAL       -9.949367
+AMZN       2.287214
+dtype: float64",0.913265962
+27,"['AAL', 'ALTS', 'REE']",Consumer-Discretionary,"const   -4.494898
+AAL      0.474043
+ALTS     6.929273
+dtype: float64",0.911376221
+28,"['AAL', 'ADSE', 'MNRO']",Consumer-Discretionary,"const    31.315204
+AAL       1.872935
+ADSE     -3.731622
+dtype: float64",0.908631383
+29,"['AAL', 'AMZN', 'DKNG']",Consumer-Discretionary,"const   -10.361077
+AAL      -0.379339
+AMZN      0.342794
+dtype: float64",0.907026049
+30,"['AAL', 'ACVA', 'UAL']",Consumer-Discretionary,"const   -0.277878
+AAL      2.821035
+ACVA     0.377646
+dtype: float64",0.902361737
+31,"['AAL', 'AMZN', 'CMPR']",Consumer-Discretionary,"const   -27.990469
+AAL      -0.525249
+AMZN      0.746185
+dtype: float64",0.901800714
+32,"['AAL', 'AMSC', 'JBLU']",Consumer-Discretionary,"const   -2.018564
+AAL      0.709223
+AMSC    -0.257912
+dtype: float64",0.930450017
+33,"['AAL', 'ADSE', 'ULCC']",Consumer-Discretionary,"const   -1.786985
+AAL      0.968295
+ADSE    -0.838307
+dtype: float64",0.922390826
+34,"['AAL', 'ADSE', 'IEP']",Consumer-Discretionary,"const    40.669051
+AAL       1.831424
+ADSE     -6.650110
+dtype: float64",0.904716218
+35,"['AACI', 'ABCB', 'MCBS']",Finance,"const   -28.210288
+AACI      3.467226
+ABCB      0.286312
+dtype: float64",0.921623818
+36,"['AACI', 'AEI', 'TRON']",Finance,"const    0.853131
+AACI     1.000796
+AEI     -0.245876
+dtype: float64",0.922621457
+37,"['AACI', 'ABCB', 'SBCF']",Finance,"const    70.324243
+AACI     -6.661473
+ABCB      0.588221
+dtype: float64",0.912057102
+38,"['AACI', 'ACGLN', 'ACGLO']",Finance,"const    4.873777
+AACI    -0.528386
+ACGLN    1.211835
+dtype: float64",0.902046891
+39,"['AACI', 'ABCB', 'CCNE']",Finance,"const    40.330363
+AACI     -3.368224
+ABCB      0.362686
+dtype: float64",0.924460644
+40,"['AACI', 'ABCB', 'HAFC']",Finance,"const    67.722435
+AACI     -6.474197
+ABCB      0.444850
+dtype: float64",0.915942668
+41,"['AACI', 'ABCB', 'ORRF']",Finance,"const   -17.642643
+AACI      2.221826
+ABCB      0.402097
+dtype: float64",0.932771445
+42,"['AACI', 'ABCB', 'SSBK']",Finance,"const    34.009669
+AACI     -2.753196
+ABCB      0.469462
+dtype: float64",0.92200141
+43,"['AACI', 'AFCG', 'MYFW']",Finance,"const    1.516351
+AACI    -0.852893
+AFCG     3.093190
+dtype: float64",0.921504319
+44,"['AACI', 'AAME', 'CVIIU']",Finance,"const    7.233578
+AACI     0.355932
+AAME    -0.297301
+dtype: float64",0.915995507
+45,"['AACI', 'ABCB', 'FNLC']",Finance,"const    62.389479
+AACI     -4.698281
+ABCB      0.307671
+dtype: float64",0.912409663
+46,"['AACI', 'ABCB', 'THFF']",Finance,"const    74.645888
+AACI     -6.130430
+ABCB      0.665487
+dtype: float64",0.949822381
+47,"['AACI', 'ABCB', 'ESSA']",Finance,"const    32.616207
+AACI     -2.799893
+ABCB      0.330230
+dtype: float64",0.926881229
+48,"['AACI', 'ABCB', 'QCRH']",Finance,"const   -47.195684
+AACI      6.210165
+ABCB      0.760768
+dtype: float64",0.920513456
+49,"['AACI', 'ABCB', 'SFST']",Finance,"const    108.663353
+AACI     -10.892545
+ABCB       0.882368
+dtype: float64",0.901439488
+50,"['AACI', 'ABCB', 'HOPE']",Finance,"const    26.294895
+AACI     -2.548562
+ABCB      0.257769
+dtype: float64",0.964588099
+51,"['AACI', 'ABCB', 'CBAN']",Finance,"const    15.960681
+AACI     -1.317442
+ABCB      0.209826
+dtype: float64",0.963772519
+52,"['AACI', 'ABCB', 'PPBI']",Finance,"const    75.953677
+AACI     -7.591251
+ABCB      0.682573
+dtype: float64",0.950242034
+53,"['AACI', 'ABCB', 'HBNC']",Finance,"const    31.307728
+AACI     -3.181126
+ABCB      0.336268
+dtype: float64",0.943436102
+54,"['AACI', 'AEI', 'MCAA']",Finance,"const    4.834179
+AACI     0.618226
+AEI     -0.232061
+dtype: float64",0.943381421
+55,"['AACI', 'ABCB', 'FFIC']",Finance,"const    47.435694
+AACI     -4.752787
+ABCB      0.417729
+dtype: float64",0.926924568
+56,"['AACI', 'ABCB', 'MOFG']",Finance,"const    86.901795
+AACI     -8.393909
+ABCB      0.599449
+dtype: float64",0.921173084
+57,"['AACI', 'ABCB', 'FIBK']",Finance,"const    114.729772
+AACI     -10.925729
+ABCB       0.675632
+dtype: float64",0.918993203
+58,"['AACI', 'ABCB', 'DCOM']",Finance,"const    83.780035
+AACI     -8.647158
+ABCB      0.717687
+dtype: float64",0.916351241
+59,"['AACI', 'AAME', 'MITA']",Finance,"const    6.540120
+AACI     0.441131
+AAME    -0.333638
+dtype: float64",0.915802749
+60,"['AACI', 'ABCB', 'BRKL']",Finance,"const    37.810345
+AACI     -3.567394
+ABCB      0.237665
+dtype: float64",0.913190674
+61,"['AACI', 'ABCB', 'CAC']",Finance,"const    108.219772
+AACI      -9.532385
+ABCB       0.630399
+dtype: float64",0.906120803
+62,"['AACI', 'ABCB', 'HFWA']",Finance,"const    107.720267
+AACI     -10.738957
+ABCB       0.599098
+dtype: float64",0.905051554
+63,"['AACI', 'ABCB', 'FMBH']",Finance,"const    2.726697
+AACI     0.555856
+ABCB     0.493868
+dtype: float64",0.94848161
+64,"['AACI', 'ABCB', 'MBWM']",Finance,"const   -27.238055
+AACI      3.680883
+ABCB      0.526295
+dtype: float64",0.917849209
+65,"['AACI', 'AEAE', 'DPCS']",Finance,"const    1.779687
+AACI     0.261302
+AEAE     0.579267
+dtype: float64",0.915423093
+66,"['AACI', 'ABCB', 'VBTX']",Finance,"const    63.337179
+AACI     -6.328955
+ABCB      0.575514
+dtype: float64",0.910409257
+67,"['AACI', 'AEAE', 'IGIC']",Finance,"const   -61.120399
+AACI      2.758232
+AEAE      4.023654
+dtype: float64",0.903827596
+68,"['AACI', 'ABCB', 'MSBI']",Finance,"const    24.463299
+AACI     -1.754739
+ABCB      0.409207
+dtype: float64",0.969617013
+69,"['AACI', 'ABCB', 'PNFP']",Finance,"const   -95.398458
+AACI      9.353662
+ABCB      1.586173
+dtype: float64",0.966420905
+70,"['AACI', 'ABCB', 'CATY']",Finance,"const    36.075069
+AACI     -2.761668
+ABCB      0.726351
+dtype: float64",0.962262722
+71,"['AACI', 'ABCB', 'FRME']",Finance,"const    105.187692
+AACI      -9.989422
+ABCB       0.772518
+dtype: float64",0.95104332
+72,"['AACI', 'ABCB', 'BWFG']",Finance,"const    29.916238
+AACI     -1.918501
+ABCB      0.406246
+dtype: float64",0.95064683
+73,"['AACI', 'ABCB', 'CNOB']",Finance,"const    27.003294
+AACI     -2.797083
+ABCB      0.528143
+dtype: float64",0.945875266
+74,"['AACI', 'ABCB', 'TCBK']",Finance,"const    169.335481
+AACI     -15.897235
+ABCB       0.867405
+dtype: float64",0.943189666
+75,"['AACI', 'ABCB', 'FULT']",Finance,"const    26.008854
+AACI     -2.355811
+ABCB      0.307717
+dtype: float64",0.939686688
+76,"['AACI', 'ABCB', 'FISI']",Finance,"const    68.963162
+AACI     -6.493084
+ABCB      0.437436
+dtype: float64",0.937148679
+77,"['AACI', 'ABCB', 'WAFD']",Finance,"const    91.541280
+AACI     -7.823106
+ABCB      0.477360
+dtype: float64",0.936979057
+78,"['AACI', 'ABCB', 'FBNC']",Finance,"const    128.234693
+AACI     -11.445172
+ABCB       0.604150
+dtype: float64",0.935297319
+79,"['AACI', 'ABCB', 'ATLO']",Finance,"const    74.223288
+AACI     -6.515744
+ABCB      0.331557
+dtype: float64",0.933859313
+80,"['AACI', 'ABCB', 'GABC']",Finance,"const    115.229284
+AACI     -10.192258
+ABCB       0.545042
+dtype: float64",0.932635891
+81,"['AACI', 'AEAE', 'FNVT']",Finance,"const   -0.678166
+AACI     0.513395
+AEAE     0.572166
+dtype: float64",0.931926635
+82,"['AACI', 'ABCB', 'PKBK']",Finance,"const    33.710596
+AACI     -2.461151
+ABCB      0.246099
+dtype: float64",0.930875394
+83,"['AACI', 'ABCB', 'FHB']",Finance,"const    71.040069
+AACI     -6.666379
+ABCB      0.471790
+dtype: float64",0.92824361
+84,"['AACI', 'ABCB', 'AMAL']",Finance,"const    12.893383
+AACI     -1.387895
+ABCB      0.516341
+dtype: float64",0.926371683
+85,"['AACI', 'ABCB', 'VLY']",Finance,"const    21.005480
+AACI     -1.998177
+ABCB      0.225571
+dtype: float64",0.926137426
+86,"['AACI', 'ABCB', 'INBK']",Finance,"const    25.511737
+AACI     -3.497485
+ABCB      0.745684
+dtype: float64",0.926105992
+87,"['AACI', 'ABCB', 'RBB']",Finance,"const    41.558057
+AACI     -4.520669
+ABCB      0.508487
+dtype: float64",0.925597884
+88,"['AACI', 'ABCB', 'WSFS']",Finance,"const    73.176854
+AACI     -6.289278
+ABCB      0.807611
+dtype: float64",0.92339915
+89,"['AACI', 'ABCB', 'WSBC']",Finance,"const    116.138107
+AACI     -10.811555
+ABCB       0.621808
+dtype: float64",0.92283627
+90,"['AACI', 'ABCB', 'SASR']",Finance,"const    121.676500
+AACI     -11.603913
+ABCB       0.603816
+dtype: float64",0.922407998
+91,"['AACI', 'ABCB', 'WABC']",Finance,"const    44.589165
+AACI     -3.625559
+ABCB      0.999619
+dtype: float64",0.922279189
+92,"['AACI', 'ABCB', 'BUSE']",Finance,"const    27.862566
+AACI     -1.985401
+ABCB      0.347341
+dtype: float64",0.921563868
+93,"['AACI', 'ABCB', 'UBSI']",Finance,"const    119.011002
+AACI     -10.599847
+ABCB       0.609578
+dtype: float64",0.918685568
+94,"['AACI', 'AEAE', 'IXAQ']",Finance,"const   -2.338300
+AACI     0.807007
+AEAE     0.433631
+dtype: float64",0.917355486
+95,"['AACI', 'ABCB', 'HTLF']",Finance,"const    181.294351
+AACI     -17.673264
+ABCB       0.935883
+dtype: float64",0.917044016
+96,"['AACI', 'ABCB', 'PFBC']",Finance,"const   -19.469834
+AACI      2.902523
+ABCB      1.260351
+dtype: float64",0.915832154
+97,"['AACI', 'ABCB', 'SMBC']",Finance,"const   -7.598599
+AACI     1.850287
+ABCB     0.761999
+dtype: float64",0.91427926
+98,"['AACI', 'ABCB', 'UMBF']",Finance,"const    120.043801
+AACI     -11.640787
+ABCB       1.747552
+dtype: float64",0.913850722
+99,"['AACI', 'AFCG', 'TURN']",Finance,"const    16.108679
+AACI     -1.294402
+AFCG      0.221182
+dtype: float64",0.912922352
+100,"['AACI', 'ABCB', 'EWBC']",Finance,"const    97.099713
+AACI     -9.233408
+ABCB      1.445725
+dtype: float64",0.910359612
+101,"['AACI', 'AAME', 'IXAQ']",Finance,"const    2.786848
+AACI     0.806017
+AAME    -0.275071
+dtype: float64",0.910037851
+102,"['AACI', 'AFCG', 'FSEA']",Finance,"const    29.960313
+AACI     -2.658530
+AFCG      0.676517
+dtype: float64",0.909918194
+103,"['AACI', 'ABCB', 'IBTX']",Finance,"const    176.414406
+AACI     -17.754745
+ABCB       1.300652
+dtype: float64",0.908812189
+104,"['AACI', 'ACNB', 'HBCP']",Finance,"const    34.534574
+AACI     -2.686631
+ACNB      0.824131
+dtype: float64",0.90863418
+105,"['AACI', 'ABCB', 'HBAN']",Finance,"const    37.322706
+AACI     -3.416267
+ABCB      0.247240
+dtype: float64",0.907784305
+106,"['AACI', 'AFCG', 'BOKF']",Finance,"const    124.250070
+AACI      -9.709784
+AFCG       7.064033
+dtype: float64",0.906679888
+107,"['AACI', 'ABCB', 'BCML']",Finance,"const   -23.270106
+AACI      3.092077
+ABCB      0.248408
+dtype: float64",0.906340827
+108,"['AACI', 'ABCB', 'LKFN']",Finance,"const    207.953174
+AACI     -19.189840
+ABCB       1.220917
+dtype: float64",0.906252487
+109,"['AACI', 'ABCB', 'TOWN']",Finance,"const    59.463575
+AACI     -4.891084
+ABCB      0.431915
+dtype: float64",0.906185331
+110,"['AACI', 'ABCB', 'SPFI']",Finance,"const   -27.918085
+AACI      3.711735
+ABCB      0.360717
+dtype: float64",0.905229795
+111,"['AACI', 'AFCG', 'BCOW']",Finance,"const    16.001307
+AACI     -1.522169
+AFCG      0.854388
+dtype: float64",0.904806646
+112,"['AACI', 'ABCB', 'FITB']",Finance,"const    69.551788
+AACI     -6.402799
+ABCB      0.635566
+dtype: float64",0.903833215
+113,"['AACI', 'AFCG', 'MGYR']",Finance,"const    10.811727
+AACI     -0.722279
+AFCG      0.857981
+dtype: float64",0.902338367
+114,"['AACI', 'ACT', 'NMIH']",Finance,"const   -16.678630
+AACI      1.534020
+ACT       1.013184
+dtype: float64",0.901366576
+115,"['AACI', 'ABCB', 'FRST']",Finance,"const    20.798693
+AACI     -1.999824
+ABCB      0.238747
+dtype: float64",0.901018456
+116,"['AACI', 'ABCB', 'STBA']",Finance,"const    89.889205
+AACI     -7.539404
+ABCB      0.466469
+dtype: float64",0.900592997
+117,"['AACI', 'AAME', 'SLAM']",Finance,"const    7.355620
+AACI     0.409598
+AAME    -0.496748
+dtype: float64",0.900219562
+118,"['AACI', 'ABCB', 'BFST']",Finance,"const   -23.270982
+AACI      2.539244
+ABCB      0.386445
+dtype: float64",0.900123319
+119,"['AACI', 'AEAE', 'JRVR']",Finance,"const    236.596810
+AACI      -6.499109
+AEAE     -14.496284
+dtype: float64",0.916230288
+120,"['AADI', 'ABOS', 'TXMD']",Health-Care        ,"const    0.575423
+AADI     0.257895
+ABOS     0.275397
+dtype: float64",0.930811719
+121,"['AADI', 'ABUS', 'NTRBW']",Health-Care        ,"const   -2.275410
+AADI     0.242908
+ABUS     0.849726
+dtype: float64",0.925940098
+122,"['AADI', 'ABVC', 'TTNP']",Health-Care        ,"const    4.213423
+AADI     0.691307
+ABVC     0.851610
+dtype: float64",0.914261801
+123,"['AADI', 'ABUS', 'SGMO']",Health-Care        ,"const   -1.552864
+AADI     0.288339
+ABUS     0.396540
+dtype: float64",0.90217831
+124,"['AADI', 'ABSI', 'SGMO']",Health-Care        ,"const   -1.279647
+AADI     0.304796
+ABSI     0.287542
+dtype: float64",0.920025285
+125,"['AADI', 'ABSI', 'PYPD']",Health-Care        ,"const   -7.092202
+AADI     2.210893
+ABSI     1.608493
+dtype: float64",0.92243294
+126,"['AADI', 'ACET', 'RPRX']",Health-Care        ,"const    24.872136
+AADI      0.368475
+ACET      1.072124
+dtype: float64",0.912942422
+127,"['AADI', 'ABSI', 'STIM']",Health-Care        ,"const   -2.211656
+AADI     0.436498
+ABSI     0.945486
+dtype: float64",0.91229045
+128,"['AADI', 'ABSI', 'KZR']",Health-Care        ,"const   -2.901622
+AADI     0.631504
+ABSI     0.611849
+dtype: float64",0.913953406
+129,"['AADI', 'ABSI', 'CARA']",Health-Care        ,"const   -5.427486
+AADI     1.086245
+ABSI     1.005508
+dtype: float64",0.923457238
+130,"['AADI', 'ACET', 'QURE']",Health-Care        ,"const    5.329598
+AADI    -0.327608
+ACET     2.571120
+dtype: float64",0.92453787
+131,"['AADI', 'ACET', 'SCNI']",Health-Care        ,"const    2.452860
+AADI     0.885310
+ACET     1.573392
+dtype: float64",0.919346966
+132,"['AADI', 'ABUS', 'SILK']",Health-Care        ,"const   -38.675920
+AADI      3.431719
+ABUS     18.212527
+dtype: float64",0.944379056
+133,"['AADI', 'ABVC', 'QURE']",Health-Care        ,"const    3.043123
+AADI     0.322457
+ABVC     1.964567
+dtype: float64",0.925803087
+134,"['AADI', 'ABSI', 'SXTC']",Health-Care        ,"const   -4.687989
+AADI     1.180984
+ABSI     1.111189
+dtype: float64",0.920262017
+135,"['AADI', 'ABUS', 'PYPD']",Health-Care        ,"const   -10.064418
+AADI      2.029149
+ABUS      3.097230
+dtype: float64",0.919633078
+136,"['AADI', 'ACET', 'SNTI']",Health-Care        ,"const   -0.113696
+AADI     0.738633
+ACET     0.917731
+dtype: float64",0.917789986
+137,"['AADI', 'ABOS', 'AGEN']",Health-Care        ,"const   -2.332890
+AADI     3.125635
+ABOS     2.062703
+dtype: float64",0.913845406
+138,"['AADI', 'ABUS', 'PLUR']",Health-Care        ,"const    0.096159
+AADI     0.376695
+ABUS     1.504660
+dtype: float64",0.905935924
+139,"['AADI', 'ABSI', 'NRXP']",Health-Care        ,"const   -3.373983
+AADI     0.943304
+ABSI     1.232593
+dtype: float64",0.905799249
+140,"['AADI', 'ABEO', 'SCNI']",Health-Care        ,"const    14.346608
+AADI      1.670809
+ABEO     -3.030202
+dtype: float64",0.904547139
+141,"['AADI', 'ABSI', 'IMAB']",Health-Care        ,"const   -1.125196
+AADI     0.453903
+ABSI     0.435262
+dtype: float64",0.904267087
+142,"['AADI', 'ABCL', 'AGEN']",Health-Care        ,"const   -2.683364
+AADI     1.764259
+ABCL     2.993060
+dtype: float64",0.901557944
+143,"['AADI', 'ABSI', 'BACK']",Health-Care        ,"const   -2.577503
+AADI     0.716822
+ABSI     0.800053
+dtype: float64",0.900726992
+144,"['AADI', 'ABUS', 'IMAB']",Health-Care        ,"const   -1.944487
+AADI     0.403791
+ABUS     0.847251
+dtype: float64",0.900342619
+145,"['AADI', 'ACET', 'DTIL']",Health-Care        ,"const    2.069040
+AADI     1.465539
+ACET     1.889247
+dtype: float64",0.955101088
+146,"['AADI', 'ABUS', 'ENTA']",Health-Care        ,"const   -40.737716
+AADI      3.238936
+ABUS     18.295504
+dtype: float64",0.945527774
+147,"['AADI', 'ABVC', 'NVCR']",Health-Care        ,"const   -9.491445
+AADI     3.692205
+ABVC     6.731479
+dtype: float64",0.944882274
+148,"['AADI', 'ABUS', 'DTIL']",Health-Care        ,"const   -12.715886
+AADI      2.510714
+ABUS      6.474225
+dtype: float64",0.93757091
+149,"['AADI', 'ACET', 'NVCR']",Health-Care        ,"const   -2.239518
+AADI     1.704210
+ACET     8.544624
+dtype: float64",0.936390331
+150,"['AADI', 'ACET', 'ENTA']",Health-Care        ,"const   -1.280306
+AADI     1.240203
+ACET     4.281264
+dtype: float64",0.936218245
+151,"['AADI', 'ABUS', 'ACET']",Health-Care        ,"const   -7.610227
+AADI     0.566615
+ABUS     3.295624
+dtype: float64",0.935192154
+152,"['AADI', 'ABVC', 'APVO']",Health-Care        ,"const   -10.102869
+AADI      2.772947
+ABVC      9.774902
+dtype: float64",0.934624634
+153,"['AADI', 'ABCL', 'LPCN']",Health-Care        ,"const   -1.608626
+AADI     0.303498
+ABCL     0.641407
+dtype: float64",0.932729697
+154,"['AADI', 'ABVC', 'DTIL']",Health-Care        ,"const   -0.171407
+AADI     2.221774
+ABVC     1.116102
+dtype: float64",0.931869632
+155,"['AADI', 'ABSI', 'INGN']",Health-Care        ,"const   -6.378130
+AADI     1.923546
+ABSI     1.842862
+dtype: float64",0.931747913
+156,"['AADI', 'ACET', 'SILK']",Health-Care        ,"const    0.385375
+AADI     1.531300
+ACET     4.162995
+dtype: float64",0.931157696
+157,"['AADI', 'ABUS', 'RPRX']",Health-Care        ,"const    14.717867
+AADI      0.852030
+ABUS      4.747956
+dtype: float64",0.929066178
+158,"['AADI', 'ABCL', 'ITOS']",Health-Care        ,"const    3.450525
+AADI     0.512671
+ABCL     0.994645
+dtype: float64",0.925644267
+159,"['AADI', 'ABUS', 'PSTV']",Health-Care        ,"const   -3.186287
+AADI     0.386751
+ABUS     1.541576
+dtype: float64",0.924392553
+160,"['AADI', 'ACET', 'FGEN']",Health-Care        ,"const   -2.348171
+AADI    -0.514209
+ACET     3.773677
+dtype: float64",0.924058347
+161,"['AADI', 'ABCL', 'DTIL']",Health-Care        ,"const   -6.321547
+AADI     2.096334
+ABCL     1.786431
+dtype: float64",0.923541676
+162,"['AADI', 'ABUS', 'SNTI']",Health-Care        ,"const   -8.592048
+AADI     1.165823
+ABUS     3.934160
+dtype: float64",0.922888126
+163,"['AADI', 'ACET', 'AFMD']",Health-Care        ,"const    1.992359
+AADI     0.356665
+ACET     0.564317
+dtype: float64",0.922865743
+164,"['AADI', 'ACET', 'INGN']",Health-Care        ,"const   -2.219014
+AADI     1.364063
+ACET     0.790050
+dtype: float64",0.922302563
+165,"['AADI', 'ABVC', 'SILK']",Health-Care        ,"const   -3.677217
+AADI     2.763048
+ABVC     2.970253
+dtype: float64",0.919500032
+166,"['AADI', 'ABUS', 'INGN']",Health-Care        ,"const   -8.916885
+AADI     1.769144
+ABUS     3.020980
+dtype: float64",0.919220821
+167,"['AADI', 'ABEO', 'DTIL']",Health-Care        ,"const    10.569392
+AADI      2.647891
+ABEO     -2.497308
+dtype: float64",0.918657074
+168,"['AADI', 'ABUS', 'SLRX']",Health-Care        ,"const   -10.695799
+AADI      1.101582
+ABUS      5.791916
+dtype: float64",0.917184119
+169,"['AADI', 'ABUS', 'SCNI']",Health-Care        ,"const   -11.293840
+AADI      1.666701
+ABUS      6.264593
+dtype: float64",0.915288365
+170,"['AADI', 'ACET', 'TTNP']",Health-Care        ,"const    5.209683
+AADI     0.407414
+ACET     1.116867
+dtype: float64",0.914104767
+171,"['AADI', 'ABUS', 'NURO']",Health-Care        ,"const   -7.098285
+AADI     0.796712
+ABUS     4.135548
+dtype: float64",0.913944194
+172,"['AADI', 'ABUS', 'VRDN']",Health-Care        ,"const   -6.971690
+AADI     1.389111
+ABUS     8.537860
+dtype: float64",0.91294845
+173,"['AADI', 'ABUS', 'SUPN']",Health-Care        ,"const    11.111959
+AADI      0.946501
+ABUS      6.225453
+dtype: float64",0.912004947
+174,"['AADI', 'ACET', 'SLRX']",Health-Care        ,"const    1.831873
+AADI     0.453869
+ACET     1.371917
+dtype: float64",0.911207852
+175,"['AADI', 'ABVC', 'TCRT']",Health-Care        ,"const    -3.402071
+AADI      2.179652
+ABVC     10.518821
+dtype: float64",0.910570204
+176,"['AADI', 'ABVC', 'VIR']",Health-Care        ,"const    6.054115
+AADI     0.321068
+ABVC     2.341369
+dtype: float64",0.907493919
+177,"['AADI', 'ABSI', 'DTIL']",Health-Care        ,"const   -4.155415
+AADI     3.039621
+ABSI     1.577151
+dtype: float64",0.907261104
+178,"['AADI', 'ABIO', 'PULM']",Health-Care        ,"const   -0.057293
+AADI     0.203792
+ABIO     0.641518
+dtype: float64",0.905595029
+179,"['AADI', 'ABVC', 'BNR']",Health-Care        ,"const    6.022957
+AADI     0.306560
+ABVC     2.786689
+dtype: float64",0.905056736
+180,"['AADI', 'ABUS', 'FGEN']",Health-Care        ,"const   -34.911524
+AADI      1.385198
+ABUS     14.777314
+dtype: float64",0.90494254
+181,"['AADI', 'ABIO', 'PYPD']",Health-Care        ,"const   -11.515015
+AADI      2.181968
+ABIO      3.774169
+dtype: float64",0.90486734
+182,"['AADI', 'ACET', 'TFFP']",Health-Care        ,"const    2.550427
+AADI     0.676636
+ACET     1.400849
+dtype: float64",0.904558572
+183,"['AADI', 'ABSI', 'LPCN']",Health-Care        ,"const   -1.003853
+AADI     0.631201
+ABSI     0.697789
+dtype: float64",0.904198519
+184,"['AADI', 'ABVC', 'AFMD']",Health-Care        ,"const    1.370912
+AADI     0.558803
+ABVC     0.361296
+dtype: float64",0.903317019
+185,"['AADI', 'ABUS', 'TTNP']",Health-Care        ,"const   -4.303400
+AADI     0.977298
+ABUS     4.297767
+dtype: float64",0.903031334
+186,"['AADI', 'ABUS', 'CLNN']",Health-Care        ,"const   -12.142131
+AADI      1.414610
+ABUS      8.056797
+dtype: float64",0.901454602
+187,"['AADI', 'ACB', 'INGN']",Health-Care        ,"const   -5.584846
+AADI     1.742633
+ACB      0.634686
+dtype: float64",0.909645498
+188,"['AADI', 'ACB', 'SXTC']",Health-Care        ,"const   -4.757964
+AADI     0.959315
+ACB      0.596164
+dtype: float64",0.914315402
+189,"['AADI', 'ABCL', 'IMAB']",Health-Care        ,"const   -1.598311
+AADI     0.225186
+ABCL     0.440485
+dtype: float64",0.938020371
+190,"['AADI', 'ACB', 'PYPD']",Health-Care        ,"const   -6.681673
+AADI     1.995111
+ACB      0.663707
+dtype: float64",0.912072961
+191,"['AADI', 'ABCL', 'SNTI']",Health-Care        ,"const   -5.458350
+AADI     0.723400
+ABCL     1.402341
+dtype: float64",0.928467418
+192,"['AADI', 'ACET', 'PYPD']",Health-Care        ,"const   -3.498190
+AADI     1.737425
+ACET     0.673114
+dtype: float64",0.916088056
+193,"['AADI', 'ABVC', 'VCNX']",Health-Care        ,"const   -17.698572
+AADI      7.222654
+ABVC      6.955051
+dtype: float64",0.923378177
+194,"['AADI', 'ABCL', 'PYPD']",Health-Care        ,"const   -9.088195
+AADI     1.302905
+ABCL     1.732115
+dtype: float64",0.948678172
+195,"['AADI', 'ABCL', 'INGN']",Health-Care        ,"const   -7.323352
+AADI     1.223366
+ABCL     1.419269
+dtype: float64",0.937869559
+196,"['AADI', 'ABCL', 'SXTC']",Health-Care        ,"const   -5.441905
+AADI     0.712158
+ABCL     0.933286
+dtype: float64",0.933242438
+197,"['AADI', 'ABEO', 'NTRBW']",Health-Care        ,"const    1.426736
+AADI     0.234187
+ABEO    -0.455291
+dtype: float64",0.928043572
+198,"['AADI', 'ACB', 'CARA']",Health-Care        ,"const   -5.651597
+AADI     0.852643
+ACB      0.602065
+dtype: float64",0.923844404
+199,"['AADI', 'ABCL', 'GNPX']",Health-Care        ,"const   -21.230032
+AADI      2.797892
+ABCL      4.730786
+dtype: float64",0.922797841
+200,"['AADI', 'ABCL', 'KZR']",Health-Care        ,"const   -3.241624
+AADI     0.392400
+ABCL     0.482241
+dtype: float64",0.921945075
+201,"['AADI', 'ABVC', 'ACET']",Health-Care        ,"const   -1.220387
+AADI     0.417431
+ABVC     0.570609
+dtype: float64",0.919485299
+202,"['AADI', 'ABVC', 'XXII']",Health-Care        ,"const   -82.963097
+AADI     15.449847
+ABVC     17.780363
+dtype: float64",0.918534948
+203,"['AADI', 'ABEO', 'PYPD']",Health-Care        ,"const    2.576186
+AADI     2.032673
+ABEO    -1.491014
+dtype: float64",0.91679186
+204,"['AADI', 'ABCL', 'CARA']",Health-Care        ,"const   -5.572180
+AADI     0.798273
+ABCL     0.618063
+dtype: float64",0.915848581
+205,"['AADI', 'ABOS', 'PYPD']",Health-Care        ,"const   -6.860690
+AADI     2.222536
+ABOS     0.575336
+dtype: float64",0.915568104
+206,"['AADI', 'ABVC', 'BTAI']",Health-Care        ,"const   -5.657336
+AADI     1.319297
+ABVC     2.434891
+dtype: float64",0.910581077
+207,"['AADI', 'ABIO', 'INGN']",Health-Care        ,"const    8.340552
+AADI     2.384242
+ABIO    -7.097495
+dtype: float64",0.90923391
+208,"['AADI', 'ABEO', 'CARA']",Health-Care        ,"const   -0.131327
+AADI     1.005772
+ABEO    -0.784453
+dtype: float64",0.908221251
+209,"['AADI', 'ABEO', 'SGMO']",Health-Care        ,"const    0.358349
+AADI     0.276676
+ABEO    -0.248701
+dtype: float64",0.90803763
+210,"['AADI', 'ABVC', 'INGN']",Health-Care        ,"const   -3.316061
+AADI     1.759914
+ABVC     0.373159
+dtype: float64",0.907656279
+211,"['AADI', 'ACHL', 'CARA']",Health-Care        ,"const   -8.729518
+AADI     0.957284
+ACHL     6.390727
+dtype: float64",0.907634681
+212,"['AADI', 'ACET', 'NUWE']",Health-Care        ,"const   -74.265561
+AADI     18.705022
+ACET     14.017546
+dtype: float64",0.905305981
+213,"['AADI', 'ABCL', 'BACK']",Health-Care        ,"const   -2.936148
+AADI     0.425958
+ABCL     0.594370
+dtype: float64",0.905015275
+214,"['AADI', 'ABVC', 'PYPD']",Health-Care        ,"const   -4.598653
+AADI     2.157105
+ABVC     0.221045
+dtype: float64",0.905006667
+215,"['AADI', 'ACET', 'KZR']",Health-Care        ,"const   -1.514909
+AADI     0.443348
+ACET     0.264965
+dtype: float64",0.904986178
+216,"['AADI', 'ACB', 'KZR']",Health-Care        ,"const   -2.880653
+AADI     0.521664
+ACB      0.305099
+dtype: float64",0.904048878
+217,"['AADI', 'ACHL', 'KZR']",Health-Care        ,"const   -5.462835
+AADI     0.527622
+ACHL     4.651500
+dtype: float64",0.903970757
+218,"['AADI', 'ABOS', 'INGN']",Health-Care        ,"const   -3.133645
+AADI     2.130806
+ABOS    -0.250744
+dtype: float64",0.901667267
+219,"['AADI', 'ABEO', 'INGN']",Health-Care        ,"const   -0.912386
+AADI     1.951507
+ABEO    -0.600552
+dtype: float64",0.901458962
+220,"['AADI', 'ACHL', 'INGN']",Health-Care        ,"const   -7.313407
+AADI     1.922741
+ACHL     4.641736
+dtype: float64",0.901065775
+221,"['AADI', 'ACET', 'CARA']",Health-Care        ,"const   -3.533487
+AADI     0.935223
+ACET     0.260230
+dtype: float64",0.900563667
