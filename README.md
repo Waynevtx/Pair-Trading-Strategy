@@ -15,9 +15,11 @@ This project develops and implements a mean-reverting trading strategy using sto
 
 1. **Model Development**:
    - The fitted regression model is defined as:
-   ```latex
-      X_3 = \beta_1 X_1 + \beta_2 X_2 + c + \epsilon
-     where \( \epsilon \) is the spread, \( \beta_1 \) and \( \beta_2 \) are coefficients, \( X_1 \), \( X_2 \) and \( X_3 \) are independent stocks, and \( c \) is the intercept.
+
+      $$X_3 = \beta_1 X_1 + \beta_2 X_2 + c + \epsilon$$
+
+   
+   where $( \epsilon )$ is the spread, $\( \beta_1 \)$ and $\( \beta_2 \)$ are coefficients, $\( X_1 \)$, $\( X_2 \)$ and $\( X_3 \)$ are independent stocks, and $\( c \)$ is the intercept.
 
 2. **Selection of Triplets**:
    - Evaluates multiple combinations of stocks within each sector to find those with strong linear relationships and stable spreads.
