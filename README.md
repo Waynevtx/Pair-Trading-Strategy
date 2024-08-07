@@ -14,10 +14,10 @@ This project develops and implements a mean-reverting trading strategy using sto
 ## Methodology
 
 1. **Model Development**:
-   - The fitted regression model is defined as:
+   - The fitted regression model is defined as:$$
      \[
      X_3 = \beta_1 X_1 + \beta_2 X_2 + c + \epsilon
-     \]
+     \]$$
      where \( \epsilon \) is the spread, \( \beta_1 \) and \( \beta_2 \) are coefficients, \( X_1 \), \( X_2 \) and \( X_3 \) are independent stocks, and \( c \) is the intercept.
 
 2. **Selection of Triplets**:
@@ -36,6 +36,11 @@ This project develops and implements a mean-reverting trading strategy using sto
 ## Installation
 
 To get started with this project, clone the repository and install the required dependencies:
+
+## Scripts
+
+1. Stock_Screening_v2.ipynb - Selection of three stocks from multiple sector in NASDAQ.
+2. Regression Trading_Final.ipynb - Main Script, Trade Execution
 
 ```bash
 git clone https://github.com/yourusername/sector-spreads.git
