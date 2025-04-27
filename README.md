@@ -1,4 +1,4 @@
-# SectorSpreads: Multi-Sector Mean-Reverting Trading Strategy
+# Pair Trading Strategy Extension - Triplets
 
 ## Project Overview
 
