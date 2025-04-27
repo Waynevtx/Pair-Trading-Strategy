@@ -1,4 +1,4 @@
-# Pair Trading Strategy Extension - Triplets
+# Pair Trading Strategy Extension Research - Triplets
 
 ## Project Overview
 
